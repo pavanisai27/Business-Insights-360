@@ -26,10 +26,15 @@ Incorporated feedback from stakeholders
 Analyzed key metrics across business functions
 
 ✨ Key Features
+
 1.Finance View   : Enables users to analyze profitability through detailed P&L statements across customers, products, and regions.
+
 2.sales view     :  Tracks net sales performance and highlights top and bottom-performing products and customers over time.
+
 3.Marketing view : provides insights into market share and revenue contribution by region, customer, and product category.
+
 4.SupplyChain view : Evaluates forecast accuracy and risk profiles to help manage inventory and demand planning.
+
 5. Executive view  : offers a high-level summary of key business metrics for quick, informed decision-making by leadership.
 
 Key Learnings:
