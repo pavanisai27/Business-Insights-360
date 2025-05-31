@@ -23,17 +23,26 @@ The Dashboard gathers data from two primary sources
 2.Excel/CSV Files :  Target, Market share & Operatinal Expenses excel/csv files are loaded.
 
 🌐 Live Dashboard  
-  🔗 Explore the live Dashboard here
-
+  🔗 Explore the live Dashboard here https://app.powerbi.com/view?r=eyJrIjoiZGU4ODA4MGUtZDI0My00ZTlhLWFlYWUtZTBjZWE0MDI5ZGIwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  
 Key Learnings:
+
 Applied Power Query for advanced data transformation
+
 Built data models with 10+ interconnected tables
+
 Used both basic and advanced DAX functions
+
 Selected visuals based on clarity and impact
+
 Followed dashboard design best practices
+
 Implemented bookmarks for smooth navigation
+
 Published reports to Power BI Service
+
 Incorporated feedback from stakeholders
+
 Analyzed key metrics across business functions
 
 ✨ Key Features
@@ -48,17 +57,6 @@ Analyzed key metrics across business functions
 
 5.Executive view  : offers a high-level summary of key business metrics for quick, informed decision-making by leadership.
 
-Key Learnings:
-
-Applied Power Query for advanced data transformation
-Built data models with 10+ interconnected tables
-Used both basic and advanced DAX functions
-Selected visuals based on clarity and impact
-Followed dashboard design best practices
-Implemented bookmarks for smooth navigation
-Published reports to Power BI Service
-Incorporated feedback from stakeholders
-Analyzed key metrics across business functions
 
 📌 Conclusion
 
